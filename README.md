@@ -1,0 +1,1 @@
+Kodluyoruz ödevi kapsamında 1998 Google homepage klonu yapılmıştır.
